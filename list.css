@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding:0;
+}
+nav
+{
+    margin: 0 0 25px 0;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+#body{
+    font-size: 15px;
+  
+    
+}
+#page-title{
+    margin: 0 0 24px 0;
+    padding:0;
+    border-bottom: 1px solid black;
+    font-size: 300;
+}
+ol.in {
+list-style-position: inside;
+border: 1px solid red;
+}
+ol.out {
+    list-style-position: outside;
+    border: 1px solid black;
+}
+ol.custom{
+    list-style-image: url('KqglA.jpg'); 
+    font-size: 1px;
+}
